@@ -1,0 +1,5 @@
+export const componentBgColor = "#1F2029"
+export const actionBgcolor = "#45474D"
+export const themeColor = "#7394FD"
+export const iconColor = "#AAABAF"
+export const bgColor = "#141316"
